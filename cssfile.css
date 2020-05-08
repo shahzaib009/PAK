@@ -1,0 +1,53 @@
+
+li{
+
+    display: inline;
+}
+.header{
+
+    background-color:#316DC3;
+padding: 1px;
+    
+
+
+}
+li{
+
+    margin:20px;
+}
+ a:hover{
+background-color:#316DC3 ;
+
+
+}
+a{
+    color:black;
+    text-decoration:none;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+   
+}
+#shah{
+margin: 10px;
+}
+body{
+
+    overflow: auto;
+}
+p{
+    margin-left: 250px;
+    margin-right: 250px;
+    color:#778899;
+    text-align: justify;
+    
+
+}
+.pak{
+display:flex ;
+flex-wrap: wrap;
+
+
+}
